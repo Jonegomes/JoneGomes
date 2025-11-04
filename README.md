@@ -2,8 +2,8 @@
 
 **`Analista de Dados`**
 
-Tenho 30 anos e sou natural Campinas São Paulo.
-Finalizando minha primeira graduação em Marketing na Anhembi Morumbi; Estou fisurado em analise de dados conclui algumas certificações em PowerBI, Excel, SQL e Python na busca de mais autonomia nessas ferramentas comecei uma Certificação profissionalizante da IBM em Analise de Dados. 
+Tenho 30 anos e sou natural Campinas - SP, finalizando minha primeira graduação em Marketing na Anhembi Morumbi em 2026.
+Estou fisurado em analise de dados conclui algumas certificações em PowerBI, Excel, SQL e Python na busca de mais autonomia nessas ferramentas comecei uma Certificação profissionalizante da IBM em Analise de Dados. 
 
 Cada passo nessa jornada abre uma porta para novos aprendizados, e estou vidrado nessa caminhada.
 Sou apaixonada por tecnologia, criatividade, vendas e dados 
@@ -34,14 +34,6 @@ Sou apaixonada por tecnologia, criatividade, vendas e dados
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -77,6 +69,8 @@ Sou apaixonada por tecnologia, criatividade, vendas e dados
 
 <br/>
 <br/>
+
+
 
 ### 📊 Estatísticas
 
