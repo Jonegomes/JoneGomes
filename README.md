@@ -1,10 +1,12 @@
 # 👨‍💻 Jone Gomes 
 
-**Analista de Dados**
+**`Analista de Dados`**
 
-Me chamo Jone gomes, tenho 30 anos e sou natural de São Paulo - Campinas.
-Estou fazendo minha primeira graduação em Marketing na Anhembi Morumbi. E estou fisurado em analise de dados conclui algumas certificações em PowerBI, Excel, SQL e Python para construir mais autonomia nessas ferramentas comecei uma Certificação profissionalizante da IBM em Analise de Dados. Cada passo nessa jornada abre uma porta para novos aprendizados, e estou vidrado nessa caminhada.
-Sou apaixonada por tecnologia, Criatividade, Vendas e Dados 
+Tenho 30 anos e sou natural Campinas São Paulo.
+Finalizando minha primeira graduação em Marketing na Anhembi Morumbi; Estou fisurado em analise de dados conclui algumas certificações em PowerBI, Excel, SQL e Python na busca de mais autonomia nessas ferramentas comecei uma Certificação profissionalizante da IBM em Analise de Dados. 
+
+Cada passo nessa jornada abre uma porta para novos aprendizados, e estou vidrado nessa caminhada.
+Sou apaixonada por tecnologia, criatividade, vendas e dados 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -38,4 +40,17 @@ Sou apaixonada por tecnologia, Criatividade, Vendas e Dados
 </p>
 
 ---
+
+
+
+Se quiser ver os projetos que desenvolvi e os que estou trabalhando, acesse meu "[portfólio de projetos](https://projetos.edinanmarinho.com.br/)".
+
+No meu "[blog](https://edinanmarinho.com.br/)", compartilho conhecimento, ideias e reflexões sobre a área de dados. Fica o convite para acompanhar!
+
+#
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/jonegomes)
+[![PowerBI](https://custom-icon-badges.demolab.com/badge/Website-516391?logo=my-website&logoColor=fff&)](https://edinanmarinho.com.br/)
+[![Portfólio](https://custom-icon-badges.demolab.com/badge/Portfólio-512EBB?logo=briefcase&logoColor=fff&)](https://projetos.edinanmarinho.com.br/)
+
 
