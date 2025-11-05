@@ -6,7 +6,7 @@ Tenho 30 anos e sou natural Campinas - SP, finalizando minha primeira graduaçã
 Estou fisurado em analise de dados conclui algumas certificações em PowerBI, Excel, SQL e Python na busca de mais autonomia nessas ferramentas comecei uma Certificação profissionalizante da IBM em Analise de Dados. 
 
 Cada passo nessa jornada abre uma porta para novos aprendizados, e estou vidrado nessa caminhada.
-Sou apaixonada por tecnologia, criatividade, vendas e dados 
+Sou apaixonado por tecnologia, criatividade, vendas e dados 
 
 <p align="left"> 
     <a href="https://github.com/JoneGomes?tab=repositories&sort=stargazers">
